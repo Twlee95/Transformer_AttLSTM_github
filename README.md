@@ -1,3 +1,3 @@
 # deep learning for stock price prediction
 
-https://github.com/TaewonLEE95/transformer_attlstm_github/issues/1#issue-1039815806
+![예측 결과 임지](https://user-images.githubusercontent.com/76574427/139482798-87decde6-a9b9-458d-9e58-f43469498780.png)
