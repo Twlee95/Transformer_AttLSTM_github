@@ -14,7 +14,12 @@
 - Install csv by running ```pip install csv```.
 - Install matplotlib by running ```pip install matplotlib```.
 - Install argparse by running ```pip install argparse```.
+- Install pandas by running ```pip install pandas```.
+- Install pandas_datareader by running ```pip install pandas-datareader```.
+- Install yfinance by running ```pip install yfinance```.
 
+
+from sklearn.model_selection import TimeSeriesSplit
 
 ## Running
 run ```AttentionLSTM_main.py``` and ```transformer_main.py```.
