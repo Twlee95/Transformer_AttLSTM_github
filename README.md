@@ -1,11 +1,7 @@
 # Deep learning for stock price prediction
 ![주식_이미지](https://user-images.githubusercontent.com/76574427/139482743-d017ba50-dacd-4642-8560-29f2af7169b4.jpg)
 
-주가 예측은 힘들지만 금융산업에서 중요한 문제임.
-
-최근 딥러닝을 이용한 주가예측 알고리즘이 뛰어난 성능을 보이고 있음.
-
-아래에는 딥러닝을 이용한 방식 중 AttentionLSTM, TransformerEncoder를 이용한 예측방식을 소개함   
+주가 예측은 힘들지만 금융산업에서 중요한 문제임.  최근 딥러닝을 이용한 주가예측 알고리즘이 뛰어난 성능을 보이고 있음.  아래에는 딥러닝을 이용한 방식 중 AttentionLSTM, TransformerEncoder를 이용한 예측방식을 소개함.
 
 ## AttentionLSTM
 본 방식은 EncoderDecoderLSTM에 Attrntion구조를 추가한 방식으로
