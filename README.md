@@ -17,9 +17,9 @@
 - Install pandas by running ```pip install pandas```.
 - Install pandas_datareader by running ```pip install pandas-datareader```.
 - Install yfinance by running ```pip install yfinance```.
+- Install math by running ```pip install python-math```.
+- Install sklearn by running ```pip install scikit-learn```.
 
-
-from sklearn.model_selection import TimeSeriesSplit
 
 ## Running
 run ```AttentionLSTM_main.py``` and ```transformer_main.py```.
