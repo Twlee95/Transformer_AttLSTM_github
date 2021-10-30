@@ -10,6 +10,7 @@
 ## AttentionLSTM
 
 본 방식은 EncoderDecoderLSTM에 Attrntion구조를 추가한 방식으로
+
 일반적인 LSTM의 Gradient Vanishing 문제를 보완하기 위해 개발 됨.
 
 - AttentionLSTM for one step ahead prediction
