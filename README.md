@@ -67,6 +67,7 @@ yfin.pdr_override()
 self.data = pdr.get_data_yahoo(self.symbol, start=self.start, end=self.end)
 ```
 pandas_datareader를 이용하여 야후 파이낸스에 있는 데이터셋을 위와같은 방법으로 불러올 수 있음.
+
 yahoofinance에서 제공되는 정보(Open, Close, High, Low, Volume, AdjClose)를 불러옴.
 
 ## 예측 결과 예시
