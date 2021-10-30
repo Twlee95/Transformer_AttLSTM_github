@@ -5,15 +5,15 @@
 
 최근 딥러닝을 이용한 주가예측 알고리즘이 뛰어난 성능을 보이고 있음.
 
-## AttentionLSTM
+### AttentionLSTM
 
-## TransformerEncoder
-
-
+### TransformerEncoder
 
 
 
-## 데이터셋
 
-## 예측 결과 예시
+
+### 데이터셋
+
+### 예측 결과 예시
 ![예측 결과 임지](https://user-images.githubusercontent.com/76574427/139482798-87decde6-a9b9-458d-9e58-f43469498780.png)
