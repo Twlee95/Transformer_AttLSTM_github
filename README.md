@@ -58,6 +58,6 @@ yahoofinance에서 제공되는 정보(Open, Close, High, Low, Volume, AdjClose)
 
 ## 예측 결과 예시
 
-코스닥 주가 데이터를 이용한 방식
+코스닥 주가 데이터를 이용.
 
 ![예측 결과 임지](https://user-images.githubusercontent.com/76574427/139482798-87decde6-a9b9-458d-9e58-f43469498780.png)
