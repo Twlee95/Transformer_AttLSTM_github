@@ -17,14 +17,7 @@
 
 
 ## Running
-run AttentionLSTM_main.py
-transformer_main.py
-
-
-
-
-
-
+run ```AttentionLSTM_main.py``` and ```transformer_main.py```.
 
 
 ## AttentionLSTM
