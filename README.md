@@ -21,6 +21,10 @@
 자연어 처리에 뛰어난 성과를 보인 Transformer 구조에서
 Encoder 구조만을 부분적으로 차용, Time series 데이터에 이용함.
 
+- TransformerEncoder
+
+![AttentionEncoder](https://user-images.githubusercontent.com/76574427/139543290-4f952916-39b6-411e-9ba1-f228b74b450d.PNG)
+
 
 
 ## Experiment setting
