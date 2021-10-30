@@ -11,6 +11,10 @@
 본 방식은 EncoderDecoderLSTM에 Attrntion구조를 추가한 방식으로
 일반적인 LSTM의 Gradient Vanishing 문제를 보완하기 위해 개발 됨.
 
+![attLSTM](https://user-images.githubusercontent.com/76574427/139543299-e7b72728-6cc6-407b-899c-261314d958aa.PNG)
+
+<AttentionLSTM for one step ahead prediction>
+
 ## TransformerEncoder
 자연어 처리에 뛰어난 성과를 보인 Transformer 구조에서
 Encoder 구조만을 부분적으로 차용, Time series 데이터에 이용함.
