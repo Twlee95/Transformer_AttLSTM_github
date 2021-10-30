@@ -13,7 +13,7 @@
 
 ![attLSTM](https://user-images.githubusercontent.com/76574427/139543299-e7b72728-6cc6-407b-899c-261314d958aa.PNG)
 
-<AttentionLSTM for one step ahead prediction>
+- AttentionLSTM for one step ahead prediction
 
 ## TransformerEncoder
 자연어 처리에 뛰어난 성과를 보인 Transformer 구조에서
