@@ -15,6 +15,7 @@
 ## Experiment setting
 1. Data split
 ![nasted_cv](https://user-images.githubusercontent.com/76574427/139542833-d78683f0-293b-4549-8b3a-c67d19e77f3e.PNG)
+
 데이터 분할방식으로는 Nasted Cross validation을 사용함
 
 2.metric
