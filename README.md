@@ -7,15 +7,15 @@
 
 아래에는 딥러닝을 이용한 방식 중 AttentionLSTM, TransformerEncoder를 이용한 예측방식을 소개함
 
-## AttentionLSTM
+1. AttentionLSTM
 
-## TransformerEncoder
-
-
+2. TransformerEncoder
 
 
 
-## Datasets
+
+
+3. Datasets
 ```
 from pandas_datareader import data as pdr
 import yfinance as yfin
@@ -28,5 +28,5 @@ yahoofinance에서 제공되는 정보(Open, Close, High, Low, Volume, AdjClose)
 
 
 
-## 예측 결과 예시
+4. 예측 결과 예시
 ![예측 결과 임지](https://user-images.githubusercontent.com/76574427/139482798-87decde6-a9b9-458d-9e58-f43469498780.png)
