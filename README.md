@@ -52,6 +52,7 @@ Encoder 구조만을 부분적으로 차용, Time series 데이터에 이용함.
 
 ![nasted_cv](https://user-images.githubusercontent.com/76574427/139542833-d78683f0-293b-4549-8b3a-c67d19e77f3e.PNG)
 
+
 데이터 분할방식으로는 Nasted Time series Cross validation을 사용.
 
 2. metric
