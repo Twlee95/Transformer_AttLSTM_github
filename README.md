@@ -7,6 +7,26 @@
 
 아래에는 딥러닝을 이용한 방식 중 AttentionLSTM, TransformerEncoder를 이용한 예측방식을 소개함.
 
+## Installation
+- Install pytorch 
+- Install numpy by running ```pip install numpy```.
+- Install os by running ```pip install os```.
+- Install csv by running ```pip install csv```.
+- Install matplotlib by running ```pip install matplotlib```.
+- Install argparse by running ```pip install argparse```.
+
+
+## Running
+run AttentionLSTM_main.py
+transformer_main.py
+
+
+
+
+
+
+
+
 ## AttentionLSTM
 
 본 방식은 EncoderDecoderLSTM에 Attrntion구조를 추가한 방식으로
