@@ -19,7 +19,7 @@
 
 데이터 분할방식으로는 Nasted Time series Cross validation을 사용.
 
-2.metric
+2. metric
 - MAE
 - RMSE
 - MAPE
