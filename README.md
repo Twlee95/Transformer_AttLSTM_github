@@ -25,6 +25,9 @@
 run ```AttentionLSTM_main.py``` and ```transformer_main.py```.
 
 
+## Output
+종목별 예측 결과, Time split별 결과와 그래프
+
 ## AttentionLSTM
 
 본 방식은 EncoderDecoderLSTM에 Attrntion구조를 추가한 방식으로
